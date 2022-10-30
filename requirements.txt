@@ -1,0 +1,6 @@
+pygame
+glfw
+pyopengl
+imgui
+python-socketio
+pysdl2
